@@ -1,0 +1,4 @@
+# Test alternating fire: primary first, then secondary
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # first shot from primary
+TORPEDO,SINGLE  # second shot from secondary (alternating)

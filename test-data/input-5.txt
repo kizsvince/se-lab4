@@ -1,0 +1,4 @@
+# Test alternating fire: if secondary is empty, fire primary again
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # first shot from primary
+TORPEDO,SINGLE  # secondary is empty, should fire primary again
